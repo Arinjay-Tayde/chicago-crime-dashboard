@@ -1,0 +1,9 @@
+KPI_Code,Metric,Value,Formatted_Value,Notes
+K1,Total Crimes,1048575.0,"1,048,575",Total row count
+K2,Arrest Rate %,20.4893,20.5%,"214,846 arrests (20.49%)"
+K3,Domestic Crime %,18.3401,18.3%,"192,310 domestic crimes (18.34%)"
+K4,Number of Crime Types,33.0,33,Distinct Primary Type count
+K5,Crimes in 2016,268944.0,"268,944",Total crimes in calendar year 2016
+K6,Avg Crimes/Month (Apr 2015 - Jul 2017),21002.18,"21,002.18","588,061 total crimes across 28 months"
+K7,Night-time Crime %,17.7342,17.7%,"185,956 night crimes (17.73%)"
+K8,Violent Crime %,29.1956,29.2%,"306,138 violent crimes (29.20%)"
